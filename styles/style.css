@@ -88,10 +88,17 @@ button {
 .calvin {
     display: none
 }
+
+h2 {
+    font-size: 45px;
+    font-family: fantasy
+}
+
 h3 {
     text-align: center;
-    background-color: aquamarine;
-
+    border: 3px dotted rgb(204, 18, 49);
+    font-size: 25px;
+    font-family: serif;
 }
 
 .results {
