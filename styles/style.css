@@ -64,7 +64,7 @@ header {
 
 
 h2 {
-    font-size: 1.8rem;
+    font-size: 30px;
     font-weight: bold;
     background-color: #DECDF5;
     font-size: 45px;
@@ -96,7 +96,7 @@ button {
 h3 {
     text-align: center;
     border: 3px dotted rgb(204, 18, 49);
-    font-size: 25px;
+    font-size: 20px;
     font-family: serif;
 }
 
