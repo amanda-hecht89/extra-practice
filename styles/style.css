@@ -88,6 +88,11 @@ button {
 .calvin {
     display: none
 }
+h3 {
+    text-align: center;
+    background-color: aquamarine;
+
+}
 
 .results {
     display: flex;
