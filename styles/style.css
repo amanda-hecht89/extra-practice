@@ -85,8 +85,9 @@ button {
 
 }
 
-.beachball {
+.calvin {
     display: none
+    height; 100px;
     
 }
 
@@ -108,7 +109,7 @@ button {
     align-items: center;
 }
 
-.shelldiv.reveal .beachball {
+.shelldiv.reveal .calvin {
     display: block;
 }
 
